@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @torrenspablo
-- 👀 I’m interested in cloud development 
-- 🌱 I’m currently learning html, css and JavaScript
+- 👀 I’m interested in web.dev
+- 🌱 I’m currently learning... some stuff
 - 💞️ I’m looking to collaborate on *don't know yet*
 - 📫 How to reach me through here, I guess.
 
