@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @torrenspablo
+- 👋 Hi, I’m Pablo. 
 - 👀 I’m interested in web.dev
-- 🌱 I’m currently learning... some stuff
-- 💞️ I’m looking to collaborate on *don't know yet*
-- 📫 How to reach me through here, I guess.
+- 🌱 I’m currently learning... 
+- 💞️ I’m looking to collaborate on *don't know yet/know/when*
 
 <!---
 torrenspablo/torrenspablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
